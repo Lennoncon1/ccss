@@ -135,13 +135,13 @@ nav{
 
 nav .logo{
 	display: block;
-	width: 300px;
-	height: 40px;
-	position: absolute; top: 50%; left: 0;
+	width: 400px;
+	height: 100px;
+	position: absolute; top: 20%; left: 0;
 	margin-top: -20px;
 	margin-left: 30px;
-	background: url(img/logo.png) no-repeat 0 0;
-	background-size: 100%;
+	background: url(img/ccs-logo1.png) no-repeat 0 0;
+	background-size: 25%;
 	overflow: hidden;
 	text-indent: -999px;
 }
